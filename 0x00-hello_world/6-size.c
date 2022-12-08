@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry
- * Retrur: Always 0
+ * Retrur: Always 0 (success)
  */
 int main(void)
 
