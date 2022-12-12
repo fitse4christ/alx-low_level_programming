@@ -12,8 +12,7 @@ int main(void)
 		putchar(number + '0');
 		if (number < 9)
 		{
-			putchar('.');
-			putchar(' ');
+			putchar(',');
 		}
 	}
 	putchar('\n');
